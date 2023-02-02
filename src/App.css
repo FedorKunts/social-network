@@ -16,6 +16,10 @@
   grid-area: h;
 }
 
+.header img {
+  width: 60px;
+}
+
 .nav {
   background-color: beige;
   grid-area: n;
